@@ -36,7 +36,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "enum": "^2.3.0",
-    "serialport-light": "git+ssh://git@github.com:athombv/node-serialport-light.git#production",
+    "linux-device": "^2.0.0",
     "stream-browserify": "^2.0.1",
     "unpi": "^1.1.0"
   },
